@@ -20,7 +20,7 @@ header {
   justify-content: space-between;
   padding: 40px 15px;
   padding-bottom: 50px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .header_column {
   display: flex;
