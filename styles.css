@@ -196,7 +196,7 @@ main h2 {
   justify-content: center;
   align-items: center;
   font-size: 132px;
-  animation: hideSplashScreen 2s ease-in-out forwards;
+  animation: hideSplashScreen 3s ease-in-out forwards;
 }
 #no-mobile {
   position: absolute;
